@@ -1,3 +1,3 @@
 # Prashant-demo
-This is my first Git Repository.
-Prashant Bhattarai
+This is my first Git Repository.<br>
+ Author:Prashant Bhattarai
